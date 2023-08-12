@@ -1,2 +1,3 @@
-# rabbitmq-demo
-go+micro+rabbitMQ构造一个简单的备忘录
+# micro-demo
+
+go-micro实战项目
